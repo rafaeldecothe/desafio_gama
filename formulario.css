@@ -1,0 +1,41 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: forestgreen;
+    
+}
+
+#subtitulo{
+    position: absolute;
+    top: 10%;
+    left: 40%;
+}
+
+#titulo{
+    position: absolute;
+    top: 1%;
+    left: 36%;
+    
+}
+
+.grupo{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: whitesmoke;
+    padding: 45px;
+    border-radius: 10%;
+
+}
+
+.botao{
+    position: relative;
+    top: 60%;
+    left: 50%;
+    height:20px; 
+    width:100px; 
+    margin: -20px -50px; 
+    }
+
+    
+    
